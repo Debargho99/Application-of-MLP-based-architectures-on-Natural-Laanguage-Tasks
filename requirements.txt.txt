@@ -1,0 +1,5 @@
+tensorflow
+sentencepiece
+nltk
+transformers
+matplotlib
